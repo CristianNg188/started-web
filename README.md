@@ -1,2 +1,7 @@
-# started-web
-Ejemplo
+# Starter web project
+
+##Introduction
+
+##Purpose
+
+#How to contribute
