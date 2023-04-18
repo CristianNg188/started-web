@@ -1,5 +1,7 @@
 # Starter web project
 
+Simple web project
+
 ##Introduction
 
 ##Purpose
